@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>youtube-810_jpg.rf.a832a76551f61340eb3a3c537d479799.jpg</filename>
+	<path>youtube-810_jpg.rf.a832a76551f61340eb3a3c537d479799.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>signal light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>625</xmin>
+			<xmax>641</xmax>
+			<ymin>103</ymin>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>
